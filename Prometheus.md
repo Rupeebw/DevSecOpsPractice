@@ -87,3 +87,64 @@
 
   
 </details>
+
+<details>
+<summary>3rd PArty - App - Exporter</summary>
+<br>
+
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/136cafeb-a01a-459f-a8f5-aab454e2388e" />
+
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/267ae75c-1b03-4dae-a2fa-ac8e7879d81b" />
+
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/8dfa3abe-2bbf-4b1c-91b5-76df3c33551a" />
+
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/bfed6e7c-4fd0-447e-8e5b-8915da6a9cd3" />
+
+Service Monitor - generates the target ( view is available on Prometheus UI)
+<img width="558" alt="image" src="https://github.com/user-attachments/assets/d04f8af5-b3bb-4135-80e6-e35ee99f5f42" />
+
+<img width="852" alt="image" src="https://github.com/user-attachments/assets/b9559eb5-bc34-4ed9-9902-acf610cfa7c8" />
+
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/34680328-9cd6-46bc-bcc0-f2abe6cad39d" />
+
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/35f48e41-cf08-417b-a3df-95867b482c76" />
+
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/f9c7eaf0-e17d-48af-96b9-5a81fc6b9086" />
+
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/96efe7d7-8318-479c-9083-e5d0bcaa66c0" />
+
+configure end to end for - MongoDB - https://www.youtube.com/watch?v=mLPg49b33sA
+
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/617c4db1-d5b1-40dc-aedc-e032ee545cd3" />
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/000d70f9-b306-430b-aab3-8071ac3b8987" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/0b262026-c59b-449c-a937-95b2e88e8c26" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/87f95490-3641-4173-a9ab-8885f0c2171f" />
+
+node exporter
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/0a4fde02-76e5-44a3-b148-650b5ead3145" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/07377311-97ee-411f-ba96-e774207d411e" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/99491c7b-f8ae-4bda-a25d-0bf01c3bba96" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/cb6a45d1-6147-4e63-b64c-c88881ec5546" />
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/2961198d-e83c-46c2-8901-f274c2302b73" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/62fe2bd3-7440-4a9c-9faf-2e6e3ca7fe60" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/3229ef7f-7c5a-497a-9041-92e8778e1b2d" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/25146538-fe0b-45d4-9222-5b6413010fb0" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/576d9159-6969-4a02-9110-2484bd31919b" />
+
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/933f3b72-fa93-4ca7-bfea-46df8988ae3a" />
+
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/f12c9277-adbf-439a-93f3-65e0e26f04e3" />
+
+
+  
+</details>
